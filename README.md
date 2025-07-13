@@ -92,7 +92,7 @@ python register.py \
 | **ProsGraphNet** | **0.98** | **1.43**    | **0.78**   | **2.1**      |
 
 ### Visualization
-![Registration Results](docs/results_grid.png)
+![Registration Results](pictures/results_grid.png)
 
 ## Pretrained Models
 Download our best-performing models:
@@ -121,23 +121,3 @@ For questions and collaborations:
 - Samana Jafri: samana.jafri@rait.ac.in
 - Dr. Gajanan Birajdar: gbirajdar@rait.ac.in
 ```
-
-## Directory Structure
-```
-ProsGraphNet/
-├── data/                   # Dataset directory (not included in repo)
-├── docs/                   # Documentation and visualizations
-├── models/                 # Pretrained model weights
-├── src/
-│   ├── data_loader.py      # Data loading and preprocessing
-│   ├── graph_utils.py      # Graph construction utilities
-│   ├── model.py            # ProsGraphNet architecture
-│   ├── train.py            # Training script
-│   ├── register.py         # Inference script
-│   └── metrics.py          # Evaluation metrics
-├── requirements.txt        # Python dependencies
-├── LICENSE
-└── README.md               # This file
-```
-
-> **Note**: Replace `[USERNAME]` and DOI links with actual repository information before publishing.
