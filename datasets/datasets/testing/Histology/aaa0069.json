@@ -1,0 +1,107 @@
+{
+    "slice1": {
+        "dpi_x": 1763.5709373977713,
+        "dpi_y": 1763.5709373977713,
+        "filename": "./datasets/datasets/testing/Histology/aaa0069/images/aaa0069 CSlice.tiff",
+        "id": "aaa0069 CSlice",
+        "magnification": 1.2497746800456648,
+        "regions": {
+            "region00": {
+                "filename": "./datasets/datasets/testing/Histology/aaa0069/annotations/aaa0069 CSlice_annotation_01_R000G255B255.tiff",
+                "id": "16776960",
+                "note": "Annotation 0"
+            },
+            "region01": {
+                "filename": "./datasets/datasets/testing/Histology/aaa0069/annotations/aaa0069 CSlice_annotation_00_R000G255B000.tiff",
+                "id": "65280",
+                "note": "CAP:"
+            },
+            "region09": {
+                "filename": "./datasets/datasets/testing/Histology/aaa0069/annotations/aaa0069 CSlice_annotation_01_R255G000B000.tiff",
+                "id": "255",
+                "note": "Annotation 1"
+            },
+            "region10": {
+                "filename": "./datasets/datasets/testing/Histology/aaa0069/annotations/aaa0069 CSlice_annotation_01_R000G000B255.tiff",
+                "id": "16711680",
+                "note": "Annotation 2"
+            }
+        },
+        "resolution_x_um": 14.402596153846154,
+        "resolution_y_um": 14.402596153846154,
+        "transform": {
+            "flip": 0,
+            "rotation_angle": 180
+        }
+    },
+    "slice2": {
+        "dpi_x": 1763.474038990912,
+        "dpi_y": 1763.474038990912,
+        "filename": "./datasets/datasets/testing/Histology/aaa0069/images/aaa0069 DSlice.tiff",
+        "id": "aaa0069 DSlice",
+        "magnification": 1.2497060118833236,
+        "regions": {
+            "region00": {
+                "filename": "./datasets/datasets/testing/Histology/aaa0069/annotations/aaa0069 DSlice_annotation_01_R000G255B255.tiff",
+                "id": "16776960",
+                "note": "Annotation 0"
+            },
+            "region01": {
+                "filename": "./datasets/datasets/testing/Histology/aaa0069/annotations/aaa0069 DSlice_annotation_00_R000G255B000.tiff",
+                "id": "65280",
+                "note": "CAP:"
+            },
+            "region09": {
+                "filename": "./datasets/datasets/testing/Histology/aaa0069/annotations/aaa0069 DSlice_annotation_01_R255G000B000.tiff",
+                "id": "255",
+                "note": "Annotation 1"
+            },
+            "region10": {
+                "filename": "./datasets/datasets/testing/Histology/aaa0069/annotations/aaa0069 DSlice_annotation_01_R000G000B255.tiff",
+                "id": "16711680",
+                "note": "Annotation 2"
+            }
+        },
+        "resolution_x_um": 14.403387539821274,
+        "resolution_y_um": 14.403387539821274,
+        "transform": {
+            "flip": 0,
+            "rotation_angle": 0
+        }
+    },
+    "slice3": {
+        "dpi_x": 1763.5060524102878,
+        "dpi_y": 1763.5060524102878,
+        "filename": "./datasets/datasets/testing/Histology/aaa0069/images/aaa0069 ESlice.tiff",
+        "id": "aaa0069 ESlice",
+        "magnification": 1.2497286985584717,
+        "regions": {
+            "region00": {
+                "filename": "./datasets/datasets/testing/Histology/aaa0069/annotations/aaa0069 ESlice_annotation_01_R000G255B255.tiff",
+                "id": "16776960",
+                "note": "Annotation 0"
+            },
+            "region01": {
+                "filename": "./datasets/datasets/testing/Histology/aaa0069/annotations/aaa0069 ESlice_annotation_00_R000G255B000.tiff",
+                "id": "65280",
+                "note": "CAP:"
+            },
+            "region09": {
+                "filename": "./datasets/datasets/testing/Histology/aaa0069/annotations/aaa0069 ESlice_annotation_01_R255G000B000.tiff",
+                "id": "255",
+                "note": "Annotation 1"
+            },
+            "region10": {
+                "filename": "./datasets/datasets/testing/Histology/aaa0069/annotations/aaa0069 ESlice_annotation_01_R000G000B255.tiff",
+                "id": "16711680",
+                "note": "Annotation 2"
+            }
+        },
+        "resolution_x_um": 14.403126071092482,
+        "resolution_y_um": 14.403126071092482,
+        "transform": {
+            "flip": 0,
+            "rotation_angle": 165
+        }
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "version": "0.1",
+    "type": "registration",
+    "method": {
+        "type": "3DRegistration",
+        "params": "-da -dd"
+    },
+    "output_path": "./results_LR0_00045_seg100",
+    "studies2process": {
+        "aaa0069": "./jsonData/reg_aaa0069.json"
+    },
+    "studies": {
+        "aaa0069": "./jsonData/reg_aaa0069.json"
+    }
+}

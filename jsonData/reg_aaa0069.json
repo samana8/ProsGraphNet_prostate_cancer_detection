@@ -1,0 +1,15 @@
+{
+    "id": "aaa0069",
+    "invivo-accession": "",
+    "exvivo-accession": "",
+    "fixed": "./datasets/datasets/testing/MRI/aaa0069-T2_AXIAL_SM_FOV.mha",
+    "fixed-segmentation": "./datasets/datasets/testing/MRI/aaa0069-T2_AXIAL_SM_FOV-prostate_label.nii.gz",
+    "fixed-landmarks2": "./datasets/datasets/testing/MRI/aaa0069-T2_AXIAL_SM_FOV-urethra_label.nii.gz",
+    "fixed-landmarks3": "./datasets/datasets/testing/MRI/aaa0069-T2-AXIAL-SM-FOV_cancer_label.mha",
+    "fixed-landmarks1": "./datasets/datasets/testing/MRI/aaa0069_fixed_image-label.nii.gz",
+    "moving-type": "stack",
+    "moving": "./datasets/datasets/testing/Histology/aaa0069.json",
+    "T2w": "./datasets/datasets/testing/MRI/aaa0069-T2_AXIAL_SM_FOV.mha",
+    "ADC": "",
+    "DWI": ""
+}
