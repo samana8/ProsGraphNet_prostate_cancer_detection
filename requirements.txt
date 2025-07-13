@@ -1,0 +1,31 @@
+# Name                    Version                   Build  Channel
+babel                     2.15.0                   pypi_0    pypi
+bzip2                     1.0.8                h5eee18b_6  
+fast-slic                 0.4.0                    pypi_0    pypi
+ffmpeg                    6.0.0           gpl_hdbbbd96_103    conda-forge
+imagecodecs               2023.1.23       py310ha3ed6a1_0    conda-forge
+imageio                   2.33.1          py310h06a4308_0  
+jpeg                      9e                   h5eee18b_2  
+jupyter                   1.0.0                    pypi_0    pypi
+kiwisolver                1.4.5                    pypi_0    pypi
+matplotlib                3.9.1                    pypi_0    pypi
+matplotlib-inline         0.1.7                    pypi_0    pypi
+numpy                     1.26.4          py310hb13e2d6_0    conda-forge
+opencv-python             4.10.0.84                pypi_0    pypi
+openh264                  2.3.1                hcb278e6_2    conda-forge
+openjpeg                  2.5.0                hfec8fc6_2    conda-forge
+pandas                    2.2.2           py310h6a678d5_0  
+pillow                    9.4.0           py310h023d228_1    conda-forge
+pip                       24.0            py310h06a4308_0  
+pytorch                   2.3.1           py3.10_cuda12.1_cudnn8.9.2_0    pytorch
+pytorch-cuda              12.1                 ha16c6d3_5    pytorch
+pytorch-mutex             1.0                        cuda    pytorch
+scikit-image              0.22.0          py310hcc13569_2    conda-forge
+scikit-learn              1.5.1                    pypi_0    pypi
+scipy                     1.14.0                   pypi_0    pypi
+setuptools                69.5.1          py310h06a4308_0  
+simpleitk                 2.3.1                    pypi_0    pypi
+torch-geometric           2.5.3                    pypi_0    pypi
+torchaudio                2.3.1               py310_cu121    pytorch
+torchtriton               2.3.1                     py310    pytorch
+torchvision               0.18.1              py310_cu121    pytorch
