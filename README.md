@@ -4,7 +4,8 @@
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![PyTorch 1.12+](https://img.shields.io/badge/PyTorch-1.12+-red.svg)](https://pytorch.org/)
 
-![ProsGraphNet Architecture](docs/architecture.png)
+![](pictures/pipeline.png)
+![ProsGraphNet Architecture](pictures/architecture.png)
 
 > **Accurate registration of whole-mount histopathology with preoperative MRI**  
 > Samana Jafri, Dr. Gajanan Birajdar  
