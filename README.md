@@ -1,4 +1,3 @@
-```markdown
 # ProsGraphNet: Superpixel-Graph Neural Network for Deformable Registration of Prostate MRI and Histological Images
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -42,7 +41,6 @@ pip install -r requirements.txt
 
 # Install PyTorch Geometric (compatible with your CUDA version)
 pip install torch_geometric
-```
 
 ## Quick Start
 ### 1. Data Preparation
